@@ -21,11 +21,9 @@ c. washington.csv: Specifically for Washington, another Udacity-provided dataset
 ### Credits
 I found two valuable sources of support during this project:
 
+a.[Pandas Docs](http://pandas.pydata.org/pandas-docs/stable/): The pandas documentation proved to be an invaluable resource, providing crucial insights into the implementation of pandas methods utilized in this project.
 
-a. Pandas Docs: The pandas documentation proved to be an invaluable resource, providing crucial insights into the implementation of pandas methods utilized in this project.
-
-
-b. Udacity: Udacity's Data Analyst Nanodegree program and the guidance of its instructors played a pivotal role in my project's success, offering invaluable assistance throughout my journey.
+b. [Udacity](https://learn.udacity.com/my-programs?tab=Currently%2520Learning): Udacity's Data Analyst Nanodegree program and the guidance of its instructors played a pivotal role in my project's success, offering invaluable assistance throughout my journey.
 
 
 
