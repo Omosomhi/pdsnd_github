@@ -153,7 +153,7 @@ def trip_duration_stats(df):
     mean_travel_time = df['Trip Duration'].mean()
     print("Mean travel time:", mean_travel_time, "seconds")
 
-
+    
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
@@ -196,6 +196,7 @@ def raw_data(df):
     
     """Displays 5 rows of raw data depending on the selected city.
     """
+    #maximum of 5 rows are displayed based on user's input
 
     rows_to_display = 5
     start_row = 0
